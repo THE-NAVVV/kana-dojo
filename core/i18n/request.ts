@@ -15,6 +15,8 @@ const NAMESPACES = [
   'statistics',
   'settings',
   'errors',
+
+  
   'menuInfo',
   'blog',
   'translator',
