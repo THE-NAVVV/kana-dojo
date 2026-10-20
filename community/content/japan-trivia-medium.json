@@ -351,5 +351,15 @@
   ],
   "correctIndex": 0
 },
-  "{\n  \"question\": \"Which dish is a Japanese hot pot with thinly sliced beef?\",\n  \"difficulty\": \"medium\",\n  \"answers\": [\n    \"Sukiyaki\",\n    \"Okonomiyaki\",\n    \"Takoyaki\",\n    \"Chankonabe\"\n  ],\n  \"correctIndex\": 0\n}"
+  {
+    "question": "Which dish is a Japanese hot pot with thinly sliced beef?",
+    "difficulty": "medium",
+    "answers": [
+      "Sukiyaki",
+      "Okonomiyaki",
+      "Takoyaki",
+      "Chankonabe"
+    ],
+    "correctIndex": 0
+  }
 ]
